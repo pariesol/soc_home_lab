@@ -12,7 +12,7 @@ This project demonstrates the setup of a Splunk Enterprise SIEM in a homelab env
 - Splunk Enterprise (Free)
 - Splunk Universal Forwarder
 - Sysmon (Event Logging)
-- VirtualBox + Ubuntu + Windows 10
+- VirtualBox + Windows 10
 
 ## 📸 Screenshots
 | Splunk Dashboard | Forwarder Connection | Indexed Logs |
